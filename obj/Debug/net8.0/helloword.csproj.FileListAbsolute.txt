@@ -1,0 +1,28 @@
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\bin\Debug\net8.0\helloword.exe
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\bin\Debug\net8.0\helloword.deps.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\bin\Debug\net8.0\helloword.runtimeconfig.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\bin\Debug\net8.0\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\bin\Debug\net8.0\helloword.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.AssemblyInfoInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.AssemblyInfo.cs
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.csproj.CoreCompileInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\refint\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\helloword.genruntimeconfig.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\helloword\obj\Debug\net8.0\ref\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\bin\Debug\net8.0\helloword.exe
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\bin\Debug\net8.0\helloword.deps.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\bin\Debug\net8.0\helloword.runtimeconfig.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\bin\Debug\net8.0\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\bin\Debug\net8.0\helloword.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.AssemblyInfoInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.AssemblyInfo.cs
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.csproj.CoreCompileInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\refint\helloword.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\helloword.genruntimeconfig.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\Aula - 01\Prova - 01\obj\Debug\net8.0\ref\helloword.dll
